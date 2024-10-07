@@ -26,7 +26,7 @@
     "node": "10.x"
   },
   "dependencies": {
-    "@sentry/node": "4.6.4",
+    "@sentry/node": "7.75.0",
     "@sindresorhus/slugify": "^0.9.1",
     "@stellarbeat/fbas_analyzer_nodejs": "^0.6.0",
     "@stellarbeat/js-stellar-domain": "^2.9.4",
